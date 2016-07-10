@@ -13,7 +13,7 @@ I don't really know what this says about my behaviour and would like to process 
 
 Alternatively, if you download this to your Downloads folder, use `python ~/Downloads/main.py`
 
-### Changelog
+## Changelog
 v0.1	Basic functionality added:
 * Finds `History.db` file from `~/Library/Safari/` automatically
 * Will catch if the database cannot be opened
