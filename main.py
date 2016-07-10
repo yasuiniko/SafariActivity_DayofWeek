@@ -12,8 +12,7 @@ import datetime
 # Find the Safari history database which is in ~/Library/Safari/ by default
 from os.path import expanduser
 home = expanduser("~")
-#database = home + "/Library/Safari/History.db"
-database = home + "/Desktop/history.db"
+database = home + "/Library/Safari/History.db"
 
 # Try to open the database
 # SQLite help from http://zetcode.com/db/sqlitepythontutorial/
