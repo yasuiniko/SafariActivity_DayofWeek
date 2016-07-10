@@ -2,6 +2,8 @@
 
 Extract activity from `History.db` for OS X/macOS's Safari and plots how active I am on different days of the week.
 
+![Figure 1](https://i.imgur.com/rz6TQE4.png)
+
 ### Changelog
 v0.1	Basic functionality added:
 * Finds `History.db` file from `~/Library/Safari/` automatically
