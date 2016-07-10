@@ -21,5 +21,6 @@ v0.1	Basic functionality added:
 	* Note that time zone differences are probably not correct since Safari likely looks to the system to determine the time and travelling users (like me) don't always update this immediately
 * Matlibplot histogram works but is ugly
 
+---
 P.S. This is my first python script! I have a feeling it could be much faster since I suspect I did not use numpy to its full capabilities. Suggestions are welcome.
 
