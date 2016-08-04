@@ -45,6 +45,8 @@ try:
     pl.xticks([0,1,2,3,4,5,6,7], names, size = "small")
     pl.ylabel('Proportion of All Activity / %')
 
+    # Define function to format the y-axis labels to be in percent
+    # http://matplotlib.org/examples/pylab_examples/histogram_percent_demo.html
     def to_percent(y, position):
         # Ignore the passed in position. This has the effect of scaling the default
         # tick locations.
